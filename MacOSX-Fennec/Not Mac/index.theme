@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Not Mac
+Type=X-GNOME-Metatheme
+Comment=A tweaked version of Glossy P
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Not Mac
+MetacityTheme=Not Mac
+IconTheme=gnome
+CursorTheme=default
+CursorSize=18
+
