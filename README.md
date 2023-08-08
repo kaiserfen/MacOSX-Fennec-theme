@@ -4,4 +4,4 @@ Mac OS X fennec is a icon theme, intending to emulate the Mac OS X leopad era of
 I didn't make these icons of course, the GTK theme included is; not-mac for window controls, Leopad-master for the theme. 
 
 
-https://i.imgur.com/1DPZ9PD.png
+![alt text] (https://i.imgur.com/1DPZ9PD.png)
